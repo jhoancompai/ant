@@ -1,0 +1,14 @@
+C:\Users\jhoan\source\repos\ant\ant\bin\Debug\net8.0\ant.exe
+C:\Users\jhoan\source\repos\ant\ant\bin\Debug\net8.0\ant.deps.json
+C:\Users\jhoan\source\repos\ant\ant\bin\Debug\net8.0\ant.runtimeconfig.json
+C:\Users\jhoan\source\repos\ant\ant\bin\Debug\net8.0\ant.dll
+C:\Users\jhoan\source\repos\ant\ant\bin\Debug\net8.0\ant.pdb
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ant.AssemblyInfoInputs.cache
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ant.AssemblyInfo.cs
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ant.csproj.CoreCompileInputs.cache
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ant.dll
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\refint\ant.dll
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ant.pdb
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ant.genruntimeconfig.cache
+C:\Users\jhoan\source\repos\ant\ant\obj\Debug\net8.0\ref\ant.dll
