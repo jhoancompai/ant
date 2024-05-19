@@ -1,6 +1,6 @@
 # Ant Stampede Simulator
 
-##Description
+## Description
 This project simulates an ant stampede scenario. The ants, represented in a string format, are marching orderly until they hear a rumor about a dropped chicken sandwich ahead. This causes a stampede, resulting in some ants getting trampled. The program analyzes the aftermath to count how many ants have died in the chaos.
 
 ## Example
